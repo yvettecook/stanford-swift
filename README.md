@@ -25,4 +25,4 @@ Part 1 of Novoda's iOS NCU.
 
 ### Weekly Goals
 
-W1 (2-6 March): Lecture 1 & 2
+W1 (2-6 March): Lectures 1 & 2 + homework
